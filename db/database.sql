@@ -1,0 +1,1 @@
+CREATE DATABASE stay_db;
